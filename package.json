@@ -12,8 +12,10 @@
   "type": "commonjs",
   "dependencies": {
     "bcrypt": "^6.0.0",
+    "config": "^4.1.0",
     "cookie-parser": "^1.4.7",
     "crypto": "^1.0.1",
+    "debug": "^4.4.1",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.16.5",
